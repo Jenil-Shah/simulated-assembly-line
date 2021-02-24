@@ -1,0 +1,24 @@
+// Name: Jenil Shah
+// Seneca Student ID: 102381191
+// Seneca email: jshah43@myseneca.ca
+// Date of completion: 01 August 2020
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+After completing this project, I was successful in learning and implementing the basic and
+some complex concepts of object oriented programming c++ in developing a simulated Assembly
+Line. I learned the basic concpets of starting and developing the project by integrating and
+linking the various independent and dependent modules.
+
+I also learned the importance and implementation of containers, especially concepts regarding
+vector and deque. I understand the working of the given project and implemented the logic
+of the code accordingly.
+
+There were two phases where it took a lot of time consumption. The first phase was in milestone2
+where I faced lots of difficulty in memory leaks which was occcuring in move assignment operator
+which was solved eventually by repeating debugging the code. The second phase was regarding the 
+sequence of order filling in milestone 3 where the output was coming correctly but in improper
+order which took quite a lot time in assembling the logic depending on the vector and deque containers.
+
+Overall, I learned many useful things during and after completing this project.
